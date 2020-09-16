@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Fernseher",
+        "test": 1996,
+        "thumbnail": "tv"
+    },
+    {
+        "name": "Tablet Pc",
+        "test": 1114,
+        "thumbnail": "mobile"
+    },
+    {
+        "name": "Apple Macbook",
+        "test": 385,
+        "thumbnail": "lcd"
+    },
+    {
+        "name": "Damen Uhr",
+        "test": 10214,
+        "thumbnail": "watch"
+    }
+]

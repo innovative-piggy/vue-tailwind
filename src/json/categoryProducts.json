@@ -1,0 +1,352 @@
+{
+    "from": 181,
+    "to": 198,
+    "pageNumber": 11,
+    "pageProducts": 18,
+    "totalProducts": 1997,
+    "totalPages": 55,
+    "products": [
+        {
+            "name": "Philips 55OLED+934",
+            "thumbnail": "oledplus",
+            "class": "B",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "LG OLED65CX9LA",
+            "thumbnail": "lgoled",
+            "class": "A+++",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 55EP680",
+            "thumbnail": "tcl55ep",
+            "class": "B+",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 55EC780",
+            "thumbnail": "tcl55ec",
+            "class": "B",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "Grundig 55 GOB 9099 OLED",
+            "thumbnail": "grundig55",
+            "class": "A",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 65C815",
+            "thumbnail": "tcl65c8",
+            "class": "C",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "Philips 55OLED+934",
+            "thumbnail": "oledplus",
+            "class": "B",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "LG OLED65CX9LA",
+            "thumbnail": "lgoled",
+            "class": "A+++",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 55EP680",
+            "thumbnail": "tcl55ep",
+            "class": "B+",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 55EC780",
+            "thumbnail": "tcl55ec",
+            "class": "B",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "Grundig 55 GOB 9099 OLED",
+            "thumbnail": "grundig55",
+            "class": "A",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 65C815",
+            "thumbnail": "tcl65c8",
+            "class": "C",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "Philips 55OLED+934",
+            "thumbnail": "oledplus",
+            "class": "B",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "LG OLED65CX9LA",
+            "thumbnail": "lgoled",
+            "class": "A+++",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 55EP680",
+            "thumbnail": "tcl55ep",
+            "class": "B+",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 55EC780",
+            "thumbnail": "tcl55ec",
+            "class": "B",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "Grundig 55 GOB 9099 OLED",
+            "thumbnail": "grundig55",
+            "class": "A",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        },
+        {
+            "name": "TCL 65C815",
+            "thumbnail": "tcl65c8",
+            "class": "C",
+            "percentage": 92,
+            "tests": 5,
+            "color": "grau",
+            "size": 138,
+            "width": 3840,
+            "height": 2160,
+            "tags": [
+                "HDR",
+                "OLED"
+            ],
+            "price": 2499,
+            "rate": 5,
+            "rateCount": 107,
+            "events": 4
+        }
+    ]
+}
